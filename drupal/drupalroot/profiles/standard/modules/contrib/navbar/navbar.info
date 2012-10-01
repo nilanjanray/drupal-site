@@ -1,0 +1,12 @@
+name = Mobile friendly navigation toolbar
+description = A very simple mobile friendly toolbar that lets you switch between frontend and backend.
+core = 7.x
+
+dependencies[] = jquery_update
+
+
+; Information added by drush on 2012-09-30
+version = ""
+project = "navbar"
+datestamp = "1349011928"
+
