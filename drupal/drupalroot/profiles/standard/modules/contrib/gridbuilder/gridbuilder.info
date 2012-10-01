@@ -1,0 +1,12 @@
+name = Grid builder
+description = Simple grid system builder.
+core = 7.x
+
+dependencies[] = ctools
+
+
+; Information added by drush on 2012-09-30
+version = ""
+project = "gridbuilder"
+datestamp = "1349011923"
+
