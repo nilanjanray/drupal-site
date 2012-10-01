@@ -1,0 +1,15 @@
+name = Panels responsive layouts
+description = Responsive layout editor for panels.
+core = 7.x
+
+dependencies[] = panels
+dependencies[] = gridbuilder
+dependencies[] = json2
+dependencies[] = jquery_update
+
+
+; Information added by drush on 2012-10-01
+version = ""
+project = "layout"
+datestamp = "1349086590"
+
