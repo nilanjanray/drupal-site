@@ -1,0 +1,57 @@
+name = Enterprise Drop 
+description = Install with commonly used features pre-configured.
+version = VERSION
+core = 7.x
+
+base = spark
+
+;dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+;dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+;dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+dependencies[] = overlay
+dependencies[] = field_ui
+;dependencies[] = file
+;dependencies[] = rdf
+
+;dependencies[] = entity
+;dependencies[] = admin_tools
+;dependencies[block] = 0
+;dependencies[dblog] = 0
+;dependencies[book] = 0
+
+users[superduper][uid]    = 2
+users[superduper][name]   = nilanjan
+users[superduper][mail]   = admin@admin
+users[superduper][roles]  = Admin,Publisher
+users[superduper][status] = 1
+
+
+nodes[front][type] = page
+nodes[front][title] = Isn't Profiler nifty?
+nodes[front][uid] = 2
+nodes[front][body][und][0][value] = <p>Donec vel ipsum elit. In rutrum, ante at fringilla pharetra, mi justo fermentum risus; eget commodo est mi lobortis augue. Proin fringilla malesuada semper. Ut velit sapien, condimentum vel faucibus ut, aliquam quis dui? Pellentesque habitant morbi tristique senectus et netus et malesuada fames
+
+nodes[article][type] = article
+nodes[article][title] = First Article
+nodes[article][body][und][0][value] = First Article ever.....
+nodes[article][uid] = 1
+
+; Information added by drupal.org packaging script on 2012-08-01
+version = "7.15"
+project = "drupal"
+datestamp = "1343839327"
+
