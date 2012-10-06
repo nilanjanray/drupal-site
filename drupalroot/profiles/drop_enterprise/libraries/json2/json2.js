@@ -16,25 +16,25 @@
 
     
     
-    <link rel="icon" type="image/x-icon" href="/favicon.png" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
     <meta content="authenticity_token" name="csrf-param" />
-<meta content="SkJ8tiw41lUbXL7qhRpujYmlnIYz31YdY8eWyUS6Upc=" name="csrf-token" />
+<meta content="b1jmKyNXKAy+qTC/kjSmnGomYmlPra1dLWsB12ODYec=" name="csrf-token" />
 
-    <link href="https://a248.e.akamai.net/assets.github.com/assets/github-001199dc5b9c642f6ffebe10bbb5e75bc850601a.css" media="screen" rel="stylesheet" type="text/css" />
-    <link href="https://a248.e.akamai.net/assets.github.com/assets/github2-b41bff8221efadad18d58c3f612f0a3f9cf45168.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="https://a248.e.akamai.net/assets.github.com/assets/github-7277a3fd9e7ab62a5b6e587a50c4295c9c6e6b9f.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="https://a248.e.akamai.net/assets.github.com/assets/github2-df48af9ffbb3f77334c3ec2f7f6294f9002ec4c6.css" media="screen" rel="stylesheet" type="text/css" />
     
 
 
     <script src="https://a248.e.akamai.net/assets.github.com/assets/frameworks-974473a941a983b46f11833dc8ffba8414698ff7.js" type="text/javascript"></script>
-    <script defer="defer" src="https://a248.e.akamai.net/assets.github.com/assets/github-71907ce2b2d3459410122b4b93a994be7662eca3.js" type="text/javascript"></script>
+    <script defer="defer" src="https://a248.e.akamai.net/assets.github.com/assets/github-83a4cb0acd6eec142634c7f676fe2421f4324470.js" type="text/javascript"></script>
     
 
       <link rel='permalink' href='/douglascrockford/JSON-js/blob/40f3377a631eaedeec877379f9cb338046cac0e0/json2.js'>
     <meta property="og:title" content="JSON-js"/>
     <meta property="og:type" content="githubog:gitrepository"/>
     <meta property="og:url" content="https://github.com/douglascrockford/JSON-js"/>
-    <meta property="og:image" content="https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png?1345673562"/>
+    <meta property="og:image" content="https://a248.e.akamai.net/assets.github.com/images/gravatars/gravatar-user-420.png?1345673561"/>
     <meta property="og:site_name" content="GitHub"/>
     <meta property="og:description" content="JSON in JavaScript. Contribute to JSON-js development by creating an account on GitHub."/>
 
@@ -53,8 +53,8 @@
       <div id="header" class="true clearfix">
         <div class="container clearfix">
           <a class="site-logo " href="https://github.com/">
-            <img alt="GitHub" class="github-logo-4x" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x.png?1338956357" />
-            <img alt="GitHub" class="github-logo-4x-hover" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x-hover.png?1338956357" />
+            <img alt="GitHub" class="github-logo-4x" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x.png?1338945075" />
+            <img alt="GitHub" class="github-logo-4x-hover" height="30" src="https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x-hover.png?1338945075" />
           </a>
 
 
@@ -94,10 +94,10 @@
 
 
           <li>
-            <span class="star-button"><a href="/login?return_to=%2Fdouglascrockford%2FJSON-js" class="minibutton js-toggler-target entice tooltipped leftwards" title="You must be signed in to use this feature" rel="nofollow"><span class="mini-icon mini-icon-star"></span>Star</a><a class="social-count js-social-count" href="/douglascrockford/JSON-js/stargazers">2,488</a></span>
+            <span class="star-button"><a href="/login?return_to=%2Fdouglascrockford%2FJSON-js" class="minibutton js-toggler-target entice tooltipped leftwards" title="You must be signed in to use this feature" rel="nofollow"><span class="mini-icon mini-icon-star"></span>Star</a><a class="social-count js-social-count" href="/douglascrockford/JSON-js/stargazers">2,503</a></span>
           </li>
           <li>
-            <a href="/login?return_to=%2Fdouglascrockford%2FJSON-js" class="minibutton js-toggler-target fork-button entice tooltipped leftwards"  title="You must be signed in to fork a repository" rel="nofollow"><span class="mini-icon mini-icon-fork"></span>Fork</a><a href="/douglascrockford/JSON-js/network" class="social-count">592</a>
+            <a href="/login?return_to=%2Fdouglascrockford%2FJSON-js" class="minibutton js-toggler-target fork-button entice tooltipped leftwards"  title="You must be signed in to fork a repository" rel="nofollow"><span class="mini-icon mini-icon-fork"></span>Fork</a><a href="/douglascrockford/JSON-js/network" class="social-count">607</a>
           </li>
     </ul>
 
@@ -814,7 +814,7 @@
   </div>
 
 <div class="frame frame-loading large-loading-area" style="display:none;" data-tree-list-url="/douglascrockford/JSON-js/tree-list/40f3377a631eaedeec877379f9cb338046cac0e0" data-blob-url-prefix="/douglascrockford/JSON-js/blob/40f3377a631eaedeec877379f9cb338046cac0e0">
-  <img src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-128.gif?1347543528" height="64" width="64">
+  <img src="https://a248.e.akamai.net/assets.github.com/images/spinners/octocat-spinner-128.gif?1347543527" height="64" width="64">
 </div>
 
         </div>
@@ -840,7 +840,7 @@
          <li><a href="https://github.com/blog">Blog</a></li>
          <li><a href="https://github.com/features">Features</a></li>
          <li><a href="https://github.com/contact">Contact &amp; Support</a></li>
-         <li><a href="https://github.com/training">Training</a></li>
+         <li><a href="http://training.github.com/">Training</a></li>
          <li><a href="http://enterprise.github.com/">GitHub Enterprise</a></li>
          <li><a href="http://status.github.com/">Site Status</a></li>
        </ul>
@@ -886,11 +886,12 @@
           <li><a href="https://github.com/security">Security</a></li>
       </ul>
 
-      <p>&copy; 2012 <span title="0.05249s from fe1.rs.github.com">GitHub</span> Inc. All rights reserved.</p>
+      <p>&copy; 2012 <span title="0.05238s from fe2.rs.github.com">GitHub</span> Inc. All rights reserved.</p>
     </div><!-- /#legal or /#legal_ie-->
 
   </div><!-- /.site -->
 </div><!-- /.lower_footer -->
+
 
       </div><!-- /#footer -->
 
@@ -1277,12 +1278,12 @@ I think you should use an
       <ul>
         <li>
           <h4>GitHub Logo</h4>
-          <a href="http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip"><img alt="Github_logo" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/github_logo.png?1338956357" /></a>
+          <a href="http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip"><img alt="Github_logo" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/github_logo.png?1338945074" /></a>
           <a href="http://github-media-downloads.s3.amazonaws.com/GitHub_Logos.zip" class="minibutton download">Download</a>
         </li>
         <li>
           <h4>The Octocat</h4>
-          <a href="http://github-media-downloads.s3.amazonaws.com/Octocats.zip"><img alt="Octocat" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/octocat.png?1338956357" /></a>
+          <a href="http://github-media-downloads.s3.amazonaws.com/Octocats.zip"><img alt="Octocat" src="https://a248.e.akamai.net/assets.github.com/images/modules/about_page/octocat.png?1338945074" /></a>
           <a href="http://github-media-downloads.s3.amazonaws.com/Octocats.zip" class="minibutton download">Download</a>
         </li>
       </ul>
@@ -1290,7 +1291,7 @@ I think you should use an
 
     
     
-    <span id='server_response_time' data-time='0.05393' data-host='fe1'></span>
+    <span id='server_response_time' data-time='0.05380' data-host='fe2'></span>
     
   </body>
 </html>

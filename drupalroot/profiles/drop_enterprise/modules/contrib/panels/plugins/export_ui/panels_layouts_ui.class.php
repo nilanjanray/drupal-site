@@ -115,6 +115,8 @@ class panels_layouts_ui extends ctools_export_ui {
     $form_state['renderer'] = panels_get_renderer_handler('editor', $cache->display);
     $form_state['renderer']->cache = &$cache;
 
+    // Include edit form from display-edit.inc. Might add
+    // additional elements from a layout plugin.
     $form = panels_edit_display_form($form, $form_state);
 
     // If we leave the standard submit handler, it'll try to reconcile
@@ -125,6 +127,9 @@ class panels_layouts_ui extends ctools_export_ui {
 
   function edit_form_submit(&$form, &$form_state) {
     parent::edit_form_submit($form, $form_state);
+    // Invoke submission handler from display-edit.inc. Might invoke submission
+    // logic from a layout plugin.
+    panels_edit_display_settings_form_submit($form, $form_state);
     $form_state['item']->settings = $form_state['display']->layout_settings;
   }
 

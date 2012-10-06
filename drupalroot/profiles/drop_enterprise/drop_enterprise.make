@@ -17,11 +17,11 @@ libraries[profiler][patch][] = "http://drupal.org/files/fix_disabled_module_erro
 projects[views][version] = 3.5
 projects[views][subdir] = contrib
 
-projects[ctools][version] = 1.2
-projects[ctools][subdir] = contrib
+;projects[ctools][version] = 1.2
+;projects[ctools][subdir] = contrib
 
-projects[panels][version] = 3.3
-projects[panels][subdir] = contrib
+;projects[panels][version] = 3.3
+;projects[panels][subdir] = contrib
 
 projects[features][version] = 1.0
 projects[features][subdir] = contrib
@@ -63,6 +63,6 @@ projects[spark][download][branch] = 7.x-1.x
 ;projects[draggableviews][download][revision] = 9677bc18b7255e13c33ac3cca48732b855c6817d
 ;projects[draggableviews][download][branch] = 7.x-2.x
 
-projects[ns_core][version] = 2.0-beta4
+;projects[ns_core][version] = 2.0-beta4
 ;projects[ns_core][download][type] = git
 ;projects[ns_core][download][branch] = 7.x-2.x

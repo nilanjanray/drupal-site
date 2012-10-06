@@ -27,11 +27,8 @@ dependencies[] = field_ui
 ;dependencies[] = file
 ;dependencies[] = rdf
 
-;dependencies[] = entity
-;dependencies[] = admin_tools
-;dependencies[block] = 0
-;dependencies[dblog] = 0
-;dependencies[book] = 0
+
+;dependencies[] = panelizer
 
 users[superduper][uid]    = 2
 users[superduper][name]   = nilanjan
