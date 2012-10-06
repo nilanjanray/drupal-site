@@ -3,6 +3,8 @@ description = Install with commonly used features pre-configured.
 version = VERSION
 core = 7.x
 
+;Inheriting the spark power
+
 base = spark
 
 ;dependencies[] = block
@@ -27,8 +29,12 @@ dependencies[] = field_ui
 ;dependencies[] = file
 ;dependencies[] = rdf
 
-
+;Drop Enterprise specific
 ;dependencies[] = panelizer
+dependencies[] = features
+;dependencies[] = enterprise_base
+dependencies[] = apps
+dependencies[] = levelten_apps
 
 users[superduper][uid]    = 2
 users[superduper][name]   = nilanjan
