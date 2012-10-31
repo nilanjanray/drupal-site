@@ -35,6 +35,7 @@ dependencies[] = features
 ;dependencies[] = enterprise_base
 dependencies[] = apps
 dependencies[] = levelten_apps
+dependencies[] = webform_feature_integration
 
 users[superduper][uid]    = 2
 users[superduper][name]   = nilanjan
