@@ -1,0 +1,43 @@
+name = Movie Management
+description = Install with commonly used features pre-configured.
+version = VERSION
+core = 7.x
+
+
+;Enable the core modules
+dependencies[] = block
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = dashboard
+dependencies[] = help
+dependencies[] = image
+dependencies[] = list
+dependencies[] = menu
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+;dependencies[] = dblog
+dependencies[] = search
+dependencies[] = shortcut
+dependencies[] = toolbar
+;dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+;dependencies[] = rdf
+
+;Enabling the contributed module.
+dependencies[] = entity
+dependencies[] = ctools
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = apachesolr
+dependencies[] = apachesolr_search
+dependencies[] = apachesolr_views
+dependencies[] = page_manager
+dependencies[] = panels
+dependencies[] = views_content
+
+
+;Feature enable for movimanagement content-type, field, apachesolr, views.
